@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="com_snc_core_automation_glideencrypter">bddc8db07722201099808d11681061bc</crypto_module>
+        <key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type>
+        <last_enforced>2024-06-19 18:15:04</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-19 18:15:04</sys_created_on>
+        <sys_id>a375328f833202107f449da5ccda1ef0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CICD DEMO APP" source="x_cdltd_cicd_demo">ddaee6c7833202107f449da5ccda1eed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD DEMO APP">ddaee6c7833202107f449da5ccda1eed</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_a375328f833202107f449da5ccda1ef0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-19 18:15:04</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>
